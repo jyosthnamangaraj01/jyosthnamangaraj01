@@ -1,16 +1,25 @@
-## Hi there 👋
+# Web Development Practice 🚀
 
-<!--
-**jyosthnamangaraj01/jyosthnamangaraj01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains my practice work while learning **Web Development**.
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+I am a **BSc Computer Science student** with a strong interest in **Web Development**.  
+Currently, I am learning and improving my skills step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Technologies I’m Learning
+- HTML
+- CSS
+- JavaScript
+
+## 🎯 Purpose of This Repository
+- Practice basic concepts
+- Improve coding skills
+- Track my learning progress
+- Build consistency on GitHub
+
+## 🌱 Learning Status
+Beginner — updating this repository regularly as I learn new concepts.
+
+---
+
+✨ *This repository will be updated with more examples and mini projects.*
